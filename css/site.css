@@ -6,6 +6,20 @@
     --check-color: #e23e57;
 }
 
+.odd {
+    font-weight: 100;
+}
+
+.even {
+    font-weight: bold;
+    font-size: large;
+}
+/* .logoFont {
+    font-family: racing sans one, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+ */
 body {
     color: var(--dark-color);
 }
